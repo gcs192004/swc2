@@ -1,1 +1,2 @@
-fibonacci series
+def fibonacci(n):
+if n<0;
